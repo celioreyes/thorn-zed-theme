@@ -38,4 +38,4 @@ Additional goodies can be found [here](https://github.com/jpwol/thorn.nvim/tree/
 
 ### Issues/Bugs
 
-Any issues that might be encountered, please report them [here](https://github.com/jpwol/thorn-vscode-theme/issues) and I will take care of them as fast as possible.
+Any issues that might be encountered, please report them [here](https://github.com/celioreyes/thorn-zed-theme/issues) and I will take care of them as fast as possible.
