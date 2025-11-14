@@ -1,5 +1,5 @@
 id = "thorn"
-name = "Thorn"
+name = "Thorn Theme"
 description = "A dark and light minimal green theme for Zed, ported from thorn.nvim by jpwol"
 version = "0.1.0"
 schema_version = 1
